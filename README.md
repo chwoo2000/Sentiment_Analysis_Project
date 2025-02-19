@@ -17,7 +17,7 @@ This repository contains the following files:
 *   `Sentiment Analysis of Social Media Posts.pdf`: The compiled PDF of the literature review document.
 *   `README.md`: This file, providing an overview of the project and instructions for local compilation.
 *   `Literature Review.pptx`: The Powerpoint Presentation slides of the Literature Review.
-*   `Literature Review.xls`: This excel file contains the Literature Review analysis and findings.
+*   `Literature Review.xlsx`: This excel file contains the Literature Review analysis and findings.
 
 ## Steps to Compile the Document Locally
 
