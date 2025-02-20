@@ -16,7 +16,9 @@ This repository contains the following files:
 *   `references.bib`: The BibTeX file containing all cited references.
 *   `Sentiment Analysis of Social Media Posts.pdf`: The compiled PDF of the literature review document.
 *   `README.md`: This file, providing an overview of the project and instructions for local compilation.
-
+*   `Literature Review Presentation.ppxx`: This file is the Literature Review Presentation Slides.
+*   `Literature Review.xlsx`: This file is an excel of the Literature Review.
+*   
 ## Steps to Compile the Document Locally
 
 To compile the LaTeX document locally, follow these steps:
