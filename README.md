@@ -18,6 +18,7 @@ This repository contains the following files:
 *   `README.md`: This file, providing an overview of the project and instructions for local compilation.
 *   `Literature Review Presentation.pptx`: This file is the Literature Review Presentation Slides.
 *   `Literature Review.xlsx`: This file is an excel of the Literature Review.
+*   `Final Presentation.pptx`: This file is the Final Presentation Slides.
   
 ## Steps to Compile the Document Locally
 
